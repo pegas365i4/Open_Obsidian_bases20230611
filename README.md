@@ -6,6 +6,7 @@
 ```perl
 start obsidian://open?vault=!!!GnosisMB
 ```
+Пример bat файла: open_GnosisMB.bat
 
 ## 1. Самый простой способ через cmd или терминал:
 ### 1.1 cmd windows:
